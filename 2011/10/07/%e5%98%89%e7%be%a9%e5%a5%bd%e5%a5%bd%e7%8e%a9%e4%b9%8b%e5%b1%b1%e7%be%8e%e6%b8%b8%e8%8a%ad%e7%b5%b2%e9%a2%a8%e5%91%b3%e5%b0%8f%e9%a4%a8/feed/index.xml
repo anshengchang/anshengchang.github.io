@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈嘉義好好玩之山美游芭絲風味小館〉的留言	</title>
+	<atom:link href="./../../%E5%98%89%E7%BE%A9%E5%A5%BD%E5%A5%BD%E7%8E%A9%E4%B9%8B%E5%B1%B1%E7%BE%8E%E6%B8%B8%E8%8A%AD%E7%B5%B2%E9%A2%A8%E5%91%B3%E5%B0%8F%E9%A4%A8/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Nov 2018 07:03:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

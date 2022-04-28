@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈嘉義好好玩之2011國際管樂節踩街活動〉的留言	</title>
+	<atom:link href="./../../%E5%98%89%E7%BE%A9%E5%A5%BD%E5%A5%BD%E7%8E%A9%E4%B9%8B2011%E5%9C%8B%E9%9A%9B%E7%AE%A1%E6%A8%82%E7%AF%80%E8%B8%A9%E8%A1%97%E6%B4%BB%E5%8B%95/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Nov 2018 07:19:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

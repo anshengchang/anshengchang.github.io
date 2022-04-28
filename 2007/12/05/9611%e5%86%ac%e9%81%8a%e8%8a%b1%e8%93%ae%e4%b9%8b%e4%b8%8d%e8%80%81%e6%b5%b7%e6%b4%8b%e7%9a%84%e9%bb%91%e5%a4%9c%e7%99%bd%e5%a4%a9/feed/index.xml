@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈9611~冬遊花蓮之不老海洋的黑夜白天〉的留言	</title>
+	<atom:link href="./../../9611%E5%86%AC%E9%81%8A%E8%8A%B1%E8%93%AE%E4%B9%8B%E4%B8%8D%E8%80%81%E6%B5%B7%E6%B4%8B%E7%9A%84%E9%BB%91%E5%A4%9C%E7%99%BD%E5%A4%A9/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Dec 2007 08:55:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

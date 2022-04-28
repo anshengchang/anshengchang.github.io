@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈小愛1.4歲~越來越可愛也越來越難搞〉的留言	</title>
+	<atom:link href="./../../%E5%B0%8F%E6%84%9B1-4%E6%AD%B2%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%8F%AF%E6%84%9B%E4%B9%9F%E8%B6%8A%E4%BE%86%E8%B6%8A%E9%9B%A3%E6%90%9E/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 22 Mar 2007 07:04:40 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

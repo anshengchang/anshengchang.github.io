@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈比賽開始之阿嬤照相館&#038;磯崎國小〉的留言	</title>
+	<atom:link href="./../../%E6%AF%94%E8%B3%BD%E9%96%8B%E5%A7%8B%E4%B9%8B%E9%98%BF%E5%AC%A4%E7%85%A7%E7%9B%B8%E9%A4%A8amp%E7%A3%AF%E5%B4%8E%E5%9C%8B%E5%B0%8F/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Nov 2018 03:50:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

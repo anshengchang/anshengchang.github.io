@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	〈2014夏北花蓮騎: 光復大農大富-瑞穗〉的留言	</title>
+	<atom:link href="./../../2014%E5%A4%8F%E5%8C%97%E8%8A%B1%E8%93%AE%E9%A8%8E-%E5%85%89%E5%BE%A9%E5%A4%A7%E8%BE%B2%E5%A4%A7%E5%AF%8C-gt%E7%91%9E%E7%A9%97/feed/index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Oct 2018 08:18:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>
