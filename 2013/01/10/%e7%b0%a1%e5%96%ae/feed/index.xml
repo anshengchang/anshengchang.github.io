@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	〈簡單〉的留言	</title>
-	<atom:link href="./../../%E7%B0%A1%E5%96%AE/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/2013/01/10/%E7%B0%A1%E5%96%AE/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/01/10/%e7%b0%a1%e5%96%ae/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Nov 2018 06:43:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

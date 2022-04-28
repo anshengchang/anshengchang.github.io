@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	〈開始smart~〉的留言	</title>
-	<atom:link href="./../../%E9%96%8B%E5%A7%8Bsmart/feed/index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/2013/09/30/%E9%96%8B%E5%A7%8Bsmart/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/09/30/%e9%96%8b%e5%a7%8bsmart/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 Oct 2018 06:40:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
